@@ -1,5 +1,13 @@
 # About us
 
+<style>
+.body {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
 ## Expertise
 
 ## Projects
