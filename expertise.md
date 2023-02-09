@@ -21,17 +21,21 @@ Languages:
   - C / C++
   - JavaScript / TypeScript
 
-Front-end frameworks:
+Front-end frameworks & technologies:
   - React (TypeScript)
   - ReFrame (ClojureScript)
   - Angular (TypeScript)
   - Yew (Rust)
+  - Plotly & Highcharts plotting libraries
+  - D3.js
+  - WebAssembly
 
 Databases:
   - Relational: MySQL, SQLite
   - NoSQL: MongoDB
   - Mixed model: OrientDB, SurrealDB
   - Semantic: DataScript
+  - Other: ElasticSearch
 
 Query languages:
   - SQL
@@ -43,10 +47,14 @@ Backend frameworks:
   - Jetty + Compojure (Clojure) 
   - Play (Scala)
 
+Messaging:
+  - MQTT
+
 DevOps:
   - Docker
   - Ansible
   - AWS
+
 
 ## Data analysis
 
@@ -80,3 +88,16 @@ System modeling:
 Physical modeling:
   - Finite Element Analysis (ANSYS, Elmer)
   - Computational Fluid Dynamics (AnsysCFX, OpenFoam)
+
+## Microcontrollers
+
+Devices:
+  - AVR (Atmega)
+  - ESP32
+
+Functionality:
+  - Control GPIO
+  - Timing
+  - Communication with sensors
+  - Data logging
+  - Messaging (MQTT)
