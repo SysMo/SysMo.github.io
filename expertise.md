@@ -40,6 +40,7 @@ Fullstack systems (backend + frontend):
   - Rust + Webassembly
   - Scala + Scala.js
   - Shiny (R)
+  - Dash (Python)
 
 Databases:
   - Relational: MySQL, SQLite
