@@ -2,6 +2,9 @@
 
 ## Software Development
 
+<div class="row">
+
+<div class="col-md-4">
 Programming languages
 
 Languages are less important than paradigms, so paradigms first:
@@ -20,7 +23,16 @@ Languages:
   - Java 
   - C / C++
   - JavaScript / TypeScript
+</div>
 
+<div class="col-md-4">
+Backend frameworks:
+  - Django (Python), Flask (Python)
+  - Jetty + Compojure (Clojure) 
+  - Play (Scala)
+</div>
+
+<div class="col-md-4">
 Front-end frameworks & technologies:
   - React (TypeScript)
   - ReFrame (ClojureScript)
@@ -29,7 +41,9 @@ Front-end frameworks & technologies:
   - Plotly & Highcharts plotting libraries
   - D3.js
   - WebAssembly
+</div>
 
+<div class="col-md-4">
 Databases:
   - Relational: MySQL, SQLite
   - NoSQL: MongoDB
@@ -41,12 +55,10 @@ Query languages:
   - SQL
   - Gremlin
   - Datalog
+</div>
 
-Backend frameworks:
-  - Django (Python), Flask (Python)
-  - Jetty + Compojure (Clojure) 
-  - Play (Scala)
 
+<div class="col-md-4">
 Messaging:
   - MQTT
 
@@ -54,7 +66,7 @@ DevOps:
   - Docker
   - Ansible
   - AWS
-
+</div>
 
 ## Data analysis
 
