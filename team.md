@@ -32,7 +32,7 @@ Links:
 
 Interests:
   - Modeling systems with fluid flow & heat exchange
-  - Modeling biological systems
+  - Modeling biological systems and processes
 
 Links:
   - [Linkedin](https://www.linkedin.com/in/milen-borisov-a6797128/)
