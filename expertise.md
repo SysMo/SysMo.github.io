@@ -68,6 +68,8 @@ DevOps:
   - AWS
 </div>
 
+</div>
+
 ## Data analysis
 
 Data processing:
