@@ -2,9 +2,6 @@
 
 ## Software Development
 
-<div class="row">
-
-<div class="col-md-4">
 Programming languages
 
 Languages are less important than paradigms, so paradigms first:
@@ -23,16 +20,12 @@ Languages:
   - Java 
   - C / C++
   - JavaScript / TypeScript
-</div>
 
-<div class="col-md-4">
 Backend frameworks:
   - Django (Python), Flask (Python)
   - Jetty + Compojure (Clojure) 
   - Play (Scala)
-</div>
 
-<div class="col-md-4">
 Front-end frameworks & technologies:
   - React (TypeScript)
   - ReFrame (ClojureScript)
@@ -41,9 +34,13 @@ Front-end frameworks & technologies:
   - Plotly & Highcharts plotting libraries
   - D3.js
   - WebAssembly
-</div>
 
-<div class="col-md-4">
+Fullstack systems (backend + frontend):
+  - Clojure + ClojureScript
+  - Rust + Webassembly
+  - Scala + Scala.js
+  - Shiny (R)
+
 Databases:
   - Relational: MySQL, SQLite
   - NoSQL: MongoDB
@@ -53,28 +50,34 @@ Databases:
 
 Query languages:
   - SQL
-  - Gremlin
-  - Datalog
-</div>
+  - Graph traversal: Gremlin, Cypher
+  - Semantic: Datalog
 
+Metaprogramming:
+  - Macro development (Rust, Clojure, Scala)
+  - Eclipse Modeling Framework, Xtend, 
+  - DSL frameworks: XText
+  - Parser generators: ANTLR
+  - Database mapping
+  - Automatic serialization/deserialization
 
-<div class="col-md-4">
 Messaging:
   - MQTT
 
 DevOps:
   - Docker
-  - Ansible
   - AWS
-</div>
-
-</div>
+  - Ansible
 
 ## Data analysis
 
 Data processing:
   - NumPy, SciPy, Pandas
+  - R, dplyr
   - Apache Arrow
+
+Distributed analytics:
+  - Apache Spark
 
 Machine learning:
   - Regression (linear, logistic)
@@ -89,8 +92,11 @@ Neural networks:
   - Generative Models
   - TensorFlow, PyTorch (Python)
 
-Distributed analytics:
-  - Apache Spark
+Visualization:
+  - MatPlotLib (python)
+  - Plotly
+  - Highcharts
+  - ggplot
 
 ## Modeling and Simulations
 
@@ -115,3 +121,11 @@ Functionality:
   - Communication with sensors
   - Data logging
   - Messaging (MQTT)
+
+## Computational Biology
+
+- Genome-wide association studies (GWAS)
+- Differential gene expression analysis
+- Gene set enrichment analysis (GSEA)
+- Single Cell Expression Analysis (ScanPy)
+- FlowCytometry
