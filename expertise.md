@@ -20,6 +20,7 @@ Languages:
   - Java 
   - C / C++
   - JavaScript / TypeScript
+  - Dart
 
 Backend frameworks:
   - Django (Python), Flask (Python)
@@ -30,6 +31,7 @@ Front-end frameworks & technologies:
   - React (TypeScript)
   - ReFrame (ClojureScript)
   - Angular (TypeScript)
+  - Flutter
   - Yew (Rust)
   - Plotly & Highcharts plotting libraries
   - D3.js
@@ -47,6 +49,7 @@ Databases:
   - NoSQL: MongoDB
   - Mixed model: OrientDB, SurrealDB
   - Semantic: DataScript
+  - Time-series: InfluxDB
   - Other: ElasticSearch
 
 Query languages:
