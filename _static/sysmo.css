@@ -1,0 +1,9 @@
+@media (min-width: 1200px) {
+  .bd-main .bd-content .bd-article-container {
+    width: 764px;
+  }
+
+  .bd-sidebar-primary .sidebar-primary-items__end {
+    margin-top: 0;
+  }
+}
