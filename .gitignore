@@ -1,0 +1,16 @@
+# List of untracked files to ignore
+slprj
+*.asv
+*.slxc
+/.project
+notebooks/.ipynb_checkpoints
+*.ipynb
+*.slx.autosave
+*.slx.original
+*_lib.slx
+.~lock*
+/work
+__temp__
+*.pyc
+/venv
+/src/_build

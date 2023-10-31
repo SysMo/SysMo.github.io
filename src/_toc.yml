@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Our company
+    chapters:
+      - file: 10_company.md
+        sections:
+          - file: 10_company/expertise.md
+          - file: 10_company/our_projects.md
+          - file: 10_company/client_projects.md
+          - file: 10_company/team.md
+
+  - caption: Projects & Positons
+    chapters:
+      - file: 32_internships/project_ideas.md
+
+  - caption: Everyday Physics
+    chapters:
+      - file: 61_everyday_physics/40_thermodynamics.md

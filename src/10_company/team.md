@@ -1,8 +1,11 @@
 # Team
 
 ## Atanas Pavlov
-<img src="assets/AtanasPavlov.jpg" width="250"/>
 
+```{image} assets/AtanasPavlov.jpg
+:width: 300px
+:align: center
+```
 Interests:
   - Full stack development
   - Model based software development, metaprogramming, code generation
@@ -15,8 +18,11 @@ Links:
   - [Toptal](https://www.toptal.com/resume/atanas-pavlov)
 
 ## Dimitar Dimitrov
-<img src="assets/DimitarDimitrov.jpg" width="250"/>
 
+```{image} assets/DimitarDimitrov.jpg
+:width: 300px
+:align: center
+```
 Interests:
   - Front-end development
   - UX/UI
@@ -28,7 +34,11 @@ Links:
   - [Toptal](https://www.toptal.com/resume/dimitar-dimitrov)
 
 ## Milen Borisov
-<img src="assets/MilenBorisov.png" width="250"/>
+
+```{image} assets/MilenBorisov.png
+:width: 300px
+:align: center
+```
 
 Interests:
   - Modeling systems with fluid flow & heat exchange
@@ -40,7 +50,11 @@ Links:
 
 
 ## Evtim Kilifarev
-<img src="assets/EvtimKilifarev.jpg" width="250"/>
+
+```{image} assets/EvtimKilifarev.jpg
+:width: 300px
+:align: center
+```
 
 Interests:
   - Embedded systems
@@ -48,8 +62,3 @@ Interests:
 Links:
   - [Linkedin](https://www.linkedin.com/in/evtimkilifarev/)
 
-## Hristo Radoev
-<img src="assets/HristoRadoev.jpg" width="250"/>
-
-Links:
-  - [Linkedin](https://www.linkedin.com/in/hristo-radoev-138721141/)
